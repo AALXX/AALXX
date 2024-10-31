@@ -4,13 +4,13 @@
 [![Twitter: YourTwitterHandle](https://img.shields.io/twitter/follow/S3RBVN?style=social)](https://x.com/S3RBVN)
 
 ## 🚀 About Me
-Hello, world! I'm Alex, a passionate indie software developer and tech enthusiast with a passion for turning complex problems into elegant solutions.
+Hello, world! I'm Alex, a passionate indie software developer and tech enthusiast.
 
 ### 💻 My Coding Journey
 
 - 🎮 **Game Development**: My love for gaming led me to dive deep into game engines and graphics programming. From crafting immersive 3D worlds to optimizing rendering pipelines for game engines, I've embraced the challenges that come with creating interactive experiences.
 
-- 🌐 **Web Development**: As the web evolved, so did my skills. Building responsive, fast, user-friendly web applications is not just a job for me—it's a craft I'm constantly refining.
+- 🌐 **Web Development**: Building responsive, fast, user-friendly web applications is not just a job for me—it's a craft I'm constantly refining.
 
 - 🔧 **Systems Programming**: My fascination with how things work under the hood drew me to low-level programming. I've tried to build my own os in Assembly and C++. These projects have given me a deep appreciation for the intricacies of computer systems.
 
