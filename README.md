@@ -57,7 +57,7 @@ A try of making an operation system!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AALXX&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
-- LinkedIn: https://www.linkedin.com/in/alex-serban-47465a322/
+- LinkedIn: https://www.linkedin.com/in/alexandru-serban-47465a322/
 - Email: alexserbwork@gmail.com
 
 ## 🎉 Fun Fact
